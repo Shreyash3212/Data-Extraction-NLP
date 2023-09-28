@@ -1,0 +1,4 @@
+1. To run the code just open the terminal and type "python program.py"
+2. Before running the program don't forget to download necessary libraries like pandas, nltk, textblob, syllables, textstat, punkt.
+3. The program extracts the article title and the article text, and then perform textual analysis and compute variables, given in the output structure excel file.
+4. The program makes a different copy of Input.xlsx file as Output.xlsx file and then calculates the posititve scores, negative scores, and so on..
